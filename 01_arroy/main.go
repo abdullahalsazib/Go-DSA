@@ -16,6 +16,7 @@ func main() {
     mySlice = append(mySlice, 12)
     mySlice = append(mySlice, 100)
     fmt.Println(mySlice)
+    fmt.Fprint("hello world")
 }
 
 
